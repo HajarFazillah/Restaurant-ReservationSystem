@@ -1,5 +1,6 @@
+Diploma in IT, Sunway College, Malaysia
+Object-Oriented Modelling Assignment
 # Restaurant-ReservationSystem
- Object-Oriented Modelling Assignment
  
 Learning Outcomes:
 LO2: Use UML class diagrams to model
